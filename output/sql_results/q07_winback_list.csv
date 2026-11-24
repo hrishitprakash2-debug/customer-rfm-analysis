@@ -1,0 +1,26 @@
+customer_id,country,segment,recency_days,frequency,lifetime_revenue,r_score,f_score,m_score
+12346,United Kingdom,At Risk (high value),326,12,77556.0,2,5,5
+16754,United Kingdom,At Risk (high value),372,29,65500.0,2,5,5
+13093,United Kingdom,At Risk (high value),276,55,54144.0,2,5,5
+17850,United Kingdom,At Risk (high value),372,155,51209.0,2,5,5
+15749,United Kingdom,At Risk (high value),235,3,44534.0,2,3,5
+15098,United Kingdom,Loyal,182,3,39917.0,3,3,5
+13902,Denmark,At Risk (high value),632,5,34095.0,1,4,5
+12482,Sweden,At Risk (high value),576,29,23691.0,1,5,5
+14063,United Kingdom,At Risk (high value),438,9,22710.0,1,5,5
+15808,United Kingdom,At Risk (high value),306,21,17180.0,2,5,5
+17448,United Kingdom,At Risk (high value),497,46,14524.0,1,5,5
+15760,Norway,At Risk (high value),631,2,13916.0,1,2,5
+13952,United Kingdom,At Risk (high value),218,14,12824.0,2,5,5
+13687,United Kingdom,At Risk (high value),438,1,11881.0,1,1,5
+14134,United Kingdom,At Risk (high value),383,15,11123.0,2,5,5
+15032,United Kingdom,At Risk (high value),256,8,11010.0,2,4,5
+12918,United Kingdom,At Risk (high value),626,1,10954.0,1,1,5
+18052,United Kingdom,At Risk (high value),565,1,10877.0,1,2,5
+14028,United Kingdom,At Risk (high value),550,3,10397.0,1,3,5
+12590,Germany,At Risk (high value),211,2,9864.0,2,2,5
+14828,United Kingdom,At Risk (high value),197,13,9839.0,2,5,5
+14091,United Kingdom,At Risk (high value),654,2,9530.0,1,2,5
+17504,United Kingdom,At Risk (high value),206,18,9490.0,2,5,5
+14439,Greece,At Risk (high value),320,5,9443.0,2,4,5
+17230,United Kingdom,At Risk (high value),264,18,9388.0,2,5,5

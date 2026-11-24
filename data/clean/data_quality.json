@@ -1,0 +1,33 @@
+{
+  "source": "UCI Online Retail II (real UK online retailer, 2009-2011)",
+  "rows_in": 1067371,
+  "drops": {
+    "unparseable_invoice_date": 0,
+    "cancelled_invoices": 19494,
+    "non_positive_quantity": 3457,
+    "non_positive_price": 2750,
+    "duplicate_rows": 33757,
+    "missing_customer_id": 228488
+  },
+  "rows_out_transactions": 1007913,
+  "rows_out_customer_transactions": 779425,
+  "customers": 5878,
+  "snapshot_date": "2011-12-10",
+  "period": [
+    "2009-12-01",
+    "2011-12-09"
+  ],
+  "revenue_total": 20476260.45,
+  "revenue_identified_customers": 17374804.27,
+  "guest_revenue_pct": 15.15,
+  "repeat_customer_pct": 72.4,
+  "one_time_customers": 1623,
+  "integrity_checks": {
+    "rows_out_equals_rows_in_minus_drops": true,
+    "no_negative_line_totals": true,
+    "rfm_customer_count_positive": true,
+    "rfm_scores_within_1_5": true,
+    "cohort_matrix_pct_within_0_100": true
+  },
+  "integrity_passed": true
+}

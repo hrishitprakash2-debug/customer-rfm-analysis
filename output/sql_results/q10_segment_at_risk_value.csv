@@ -1,0 +1,8 @@
+segment,customers,lifetime_revenue,avg_days_since_last,avg_orders,revenue_dormant_180d
+At Risk (high value),395,1430094.0,366.0,6.2,1430094.0
+Hibernating,1463,475957.0,460.0,1.2,475957.0
+Can't Lose,493,339778.0,378.0,3.5,339778.0
+Loyal,1229,2549955.0,78.0,5.4,87200.0
+Needs Attention,384,203761.0,106.0,1.4,3462.0
+New / Promising,441,391838.0,28.0,1.5,0.0
+Champions,1473,11983422.0,20.0,15.7,0.0

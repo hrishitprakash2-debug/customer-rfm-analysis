@@ -1,0 +1,4 @@
+country,customers,invoices,revenue,avg_line_value
+United Kingdom,5349,33539,14388511.0,20.54
+Germany,107,790,425940.0,25.85
+France,93,610,347091.0,25.85

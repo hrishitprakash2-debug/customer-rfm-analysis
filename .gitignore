@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/raw/*.xlsx
+data/raw/*.csv
+data/raw/*.zip
+data/clean/transactions_clean.csv
+data/*.db*
